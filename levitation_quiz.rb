@@ -1,7 +1,7 @@
 
 def levitation_quiz
 	#your code here
-	puts = "What's up, Doc?"
+	puts = "What is the spell that enacts levitation?"
 end
 
 
